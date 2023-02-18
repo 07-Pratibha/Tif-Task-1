@@ -87,11 +87,11 @@ body {
 
 .about {
   display: flex;
-  position: absolute;
-  width: 1440px;
+  position: relative;
+  /* width: 1440px; */
   height: 467px;
   left: 0px;
-  top: 989px;
+  top: 100px;
 
   background: linear-gradient(
     90.07deg,
