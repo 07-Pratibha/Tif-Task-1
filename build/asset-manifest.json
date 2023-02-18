@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6daacda.css",
+    "main.js": "/static/js/main.30dcf30d.js",
+    "static/js/787.6ce2b620.chunk.js": "/static/js/787.6ce2b620.chunk.js",
+    "static/media/pizza.png": "/static/media/pizza.e3a3f59c6b4c8f78a18e.png",
+    "static/media/about.png": "/static/media/about.8239c468cf809d86b2f6.png",
+    "static/media/redColour.png": "/static/media/redColour.4c773fc1ad52994b82d5.png",
+    "index.html": "/index.html",
+    "main.c6daacda.css.map": "/static/css/main.c6daacda.css.map",
+    "main.30dcf30d.js.map": "/static/js/main.30dcf30d.js.map",
+    "787.6ce2b620.chunk.js.map": "/static/js/787.6ce2b620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6daacda.css",
+    "static/js/main.30dcf30d.js"
+  ]
+}

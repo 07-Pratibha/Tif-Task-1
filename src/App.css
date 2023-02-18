@@ -9,7 +9,7 @@ body {
 .main {
   position: relative;
   display: flex;
-  width: 1440px;
+  /* width: 1440px; */
   height: 804px;
   left: 0px;
   top: 0px;
@@ -133,11 +133,73 @@ body {
 .about-right > p {
   width: 447px;
   height: 138px;
-
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
   line-height: 27px;
   color: #444957;
+}
+
+.footer {
+  position: absolute;
+  padding: 84px 103px 92px 103px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 362px;
+  top: 2451px;
+}
+
+.footer-image {
+  width: 161px;
+  height: 125px;
+  margin-right: 211px;
+}
+
+.footer-contact-us {
+  margin-right: 206px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.6559px;
+}
+
+.footer-more {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.6559px;
+  margin-right: 50px;
+  margin-bottom: 38px;
+}
+
+.footer-social {
+  margin-top: 100px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14.6559px;
+  margin-bottom: 251px;
+  margin-left: 266px;
+}
+
+.footer-social > h2 {
+  margin-bottom: 14px;
+}
+
+.footer-social__icons {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+
+.footer-social__icons > img {
+  height: 21px;
+  width: 17px; 
+  margin: 35px 35px;
+}
+
+.footer-more > p {
+  white-space: nowrap;
 }

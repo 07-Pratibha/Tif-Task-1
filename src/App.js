@@ -10,6 +10,8 @@ function App() {
     <div>
       <Main/>
       <About />
+      {/* <Cards /> */}
+      <Footer />
     </div>
   );
 }

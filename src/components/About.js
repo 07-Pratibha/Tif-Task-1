@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
 import about from "../images/about.png";
 
 export default function About() {
